@@ -2,6 +2,8 @@
   Controle de Pontos com Java ♨️
 </h1>
 
+![Admin](https://github.com/user-attachments/assets/0563948c-9c99-4099-8fc9-422af7e9bd7d)
+
 ## ❓ Sobre
 <p>Este é um sistema simples de Controle de Pontos. 
   Sistemas do tipo são muito utilizados por diversas empresas e instituições para controle de funcionários que lá trabalham. 
